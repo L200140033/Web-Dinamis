@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Curiculum Vitae </title>
+		
+	</head>
+	
+	<body background="c.jpg">
+		
+				<center><img src="pp.gif"></center>
+				
+			
+								
+
+				<table align="center" width="300" bgcolor="#FFFF00"><tr><td><center><h1>Curiculum Vitae </h1></center></td></tr></table>
+				</br>
+				<center>
+				  <img src="a.jpg" width="194" height="250">
+				</center>
+				<h3>&nbsp; </h3>
+				
+				
+				<table align="center"bgcolor="#FFFF66" width="900" border="0"  align="left" cellspacing="10">
+				
+				<tr>
+				<td colspan="3"><u><h3>Data Pribadi</h3></u></td>
+				
+				</tr>
+				
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">Nama</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">Muhammad Abdul Ghofar</td>
+				</tr>
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">	Jenis Kelamin</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">Pria</td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">	Alamat</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">Ngambil-Ambil Rt.01 Rw.02 Nguter, Sukoharjo</td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">TTL</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">Surakarta, 19 Mei 1996</td>
+				</tr>
+			
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">Agama</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">Islam</td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">Kewaarganegaraan</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">Indonesia</td>
+				</tr>
+			
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">Tinggi Badan</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top"> 180</td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">Berat Badan</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">62</td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">Hobby</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">Menulis</td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">Twitter</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">@Ghofar_Est</td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">Facebook</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">Est Adalah Ghofar</td>
+				</tr>
+			
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">Instagram</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">ghofar.estr</td>
+				</tr>
+			
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">Nomor telepon</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">082135799047</td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">E-mail</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">mvghofar1@gmail.com</td>
+				</tr>
+				
+				
+				
+				<tr>
+				
+				<td colspan="3">
+				<u>
+				<h3>  Riwayat Pendidikan </h3>
+				</u></td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">2014 sampai dengan Sekarang </td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">Fakultas Teknik Informatika, Universitas Muhammadyah Surakarta</td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">2011 sampai dengan 2014 </td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">SMA Negeri 1 Nguter</td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">2008 sampai dengan 2011</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">SMP Negeri 3 Nguter</td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">2002 sampai dengan 2008</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">MI Negeri Jetis</td>
+				</tr>
+				
+						
+		   		<tr><td colspan="3">
+				
+		   		<u><h3>Riwayat Organisasi </h3>
+		   		</u>
+				</td></tr>
+				
+				<tr>
+				
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">2013</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">Seksi Dana Sosial karangtaruna</td>
+				</tr>
+				
+				<tr>
+				<td width="93" align ="left" valign ="top">	</td>
+				<td width="210" align ="left" valign ="top">2014 sampai dengan Sekarang</td>
+				<td width="25" align ="left" valign ="top">:	</td>
+				<td width="520" align ="left" valign ="top">Penyiar di Rapma FM</td>
+				</tr>
+					
+				<tr><td colspan="4">&nbsp; <p>Demikian Curiculum Vitae ini saya buat sebenar-benarnya, semoga dapat dipergunakan sebagaimana mestinya.</p></td></tr>
+
+				<tr><td colspan="4"><p align="right">Hormat saya, </p> &nbsp; &nbsp;</td></tr>
+
+
+				<tr><td colspan="4"><strong><p align="right">Muhammad Abdul G.</p></strong></td></tr>
+				
+				
+					
+					
+			
+			
+				<tr><td colspan="4"><center>&copy; 2015 Ghofar.Inc</center></td></tr>
+			</table>
+		
+	</body>
+</html>
